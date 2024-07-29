@@ -4,7 +4,7 @@ node_compat = true
 [[d1_databases]]
 binding = "DB"
 database_name = "d1-demo-prod-db"
-database_id = "88009640-3bb6-41cc-ac11-6c83fe80bf0c"
+database_id = "af532ccf-528f-46bf-9ba6-84d780d49754"
 preview_database_id = "DB"
 
 [env.preview]
@@ -12,5 +12,5 @@ name = "preview"
 [[env.preview.d1_databases]]
 binding = "DB"
 database_name = "d1-demo-preview-db"
-database_id = "f333689e-ab31-41ab-8d0b-2c5c37a09f17"
+database_id = "adf57da3-0e12-4e6a-8100-1c593e7f2ef3"
 
